@@ -1,0 +1,27 @@
+_repo: Her-evil-genius-b-or-Within-love-s-call_75930
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stirling, Adelaide
+    gutenberg_agent_id: '58222'
+    url: http://www.gutenberg.org/2009/agents/58222
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75930'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:970227
+pgterms:marc905: 20240726094502stirling
+pgterms:marc906: '1899'
+pgterms:marc907: en
+production_note: Demian Katz and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bStreet & Smith, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Her evil genius : $b or, Within love''s call'
+url: http://www.gutenberg.org/ebooks/75930
