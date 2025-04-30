@@ -1,11 +1,16 @@
 _repo: Her-evil-genius-b-or-Within-love-s-call_75930
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75930-h/images/cover.jpg
 creator:
   author:
     agent_name: Stirling, Adelaide
     gutenberg_agent_id: '58222'
     url: http://www.gutenberg.org/2009/agents/58222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75930#Her-evil-genius-b-or-Within-love-s-call
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
